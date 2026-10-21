@@ -15,41 +15,41 @@ I set up a website on an AWS server and made it secure (HTTPS) using two types o
 ## ECC Certificate
 
 **The website working over HTTPS**
-![ECC browser certificate](screenshots/ecc-01-browser-certificate.png)
+![ECC browser certificate](ecc-01-browser-certificate.png)
 
 **DNS lookup**
-![DNS lookup](screenshots/ecc-02-dns-lookup.png)
+![DNS lookup](ecc-02-dns-lookup.png)
 
 **Client Hello**
-![Client Hello](screenshots/ecc-03-client-hello-sni.png)
+![Client Hello](ecc-03-client-hello-sni.png)
 
 **Server certificate**
-![Server certificate](screenshots/ecc-04-server-certificate-ecdsa.png)
+![Server certificate](ecc-04-server-certificate-ecdsa.png)
 
 **Session ticket**
-![Session ticket](screenshots/ecc-05-session-ticket.png)
+![Session ticket](ecc-05-session-ticket.png)
 
 **TLS 1.3 connection**
-![TLS 1.3](screenshots/ecc-06-tls13-hybrid-key-share.png)
+![TLS 1.3](ecc-06-tls13-hybrid-key-share.png)
 
 ---
 
 ## RSA Certificate
 
 **The website working over HTTPS**
-![RSA browser certificate](screenshots/rsa-01-browser-certificate.jpg)
+![RSA browser certificate](rsa-01-browser-certificate.jpg)
 
 **DNS lookup**
-![DNS lookup](screenshots/rsa-02-dns-lookup.jpg)
+![DNS lookup](rsa-02-dns-lookup.jpg)
 
 **TLS handshake**
-![Handshake](screenshots/rsa-03-handshake-overview.jpg)
+![Handshake](rsa-03-handshake-overview.jpg)
 
 **Server certificate**
-![Server certificate](screenshots/rsa-04-server-certificate.jpg)
+![Server certificate](rsa-04-server-certificate.jpg)
 
 **TLS 1.3 connection**
-![TLS 1.3](screenshots/rsa-05-tls13-client-hello.jpg)
+![TLS 1.3](rsa-05-tls13-client-hello.jpg)
 
 ---
 
